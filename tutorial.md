@@ -423,15 +423,28 @@ Markdown permite usar a contra-barra para gerar caracteres literais:
 
 Use a contra-barra se quiser colocar algum desses caracteres no texto:
 
-\
-`
-*
-_
-{}
-[]
-()
-#
-+
--
-.
-!
+    \\
+    \`
+    \*
+    \_
+    \{\}
+    \[\]
+    \(\)
+    \#
+    \+
+    \-
+    \.
+    \!
+
+\\
+\`
+\*
+\_
+\{\}
+\[\]
+\(\)
+\#
+\+
+\-
+\.
+\!
