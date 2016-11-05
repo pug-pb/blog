@@ -173,7 +173,7 @@ Outros exemplos:
 *   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
     Suspendisse id sem consectetuer libero luctus adipiscing.
 
-But if you want to be lazy, you don’t have to:
+Mas se você for preguiçoso, não precisa:
 
     *   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
     Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
@@ -210,13 +210,13 @@ subsequente no item da lista deve ser identado por 4 espaços ou tabulação:
 
 2.  Suspendisse id sem consectetuer libero luctus adipiscing.
 
-    *   Item de lista com dois parágrafos.
+        *   Item de lista com dois parágrafos.
 
-        Segundo parágrafo do item. Só
-    é necessário identar a primeira linha. Lorem ipsum dolor
-    sit amet, consectetuer adipiscing elit.
+            Segundo parágrafo do item. Só
+        é necessário identar a primeira linha. Lorem ipsum dolor
+        sit amet, consectetuer adipiscing elit.
 
-    *   Outro item da lista.
+        *   Outro item da lista.
 
 *   Item de lista com dois parágrafos.
 
@@ -331,29 +331,15 @@ Isto é [um exemplo][id] de link estilo "reference".
 
 Pode-se, opcionalmente, usar um espaço para separar os conjuntos de colchetes:
 
-    This is [an example] [id] reference-style link.
+    Este é [um exemplo] [id] de link estilo "reference".
 
-This is [an example] [id] reference-style link.
+Este é [um exemplo] [id] de link estilo "reference".
 
 Então, em qualquer lugar do documento, você define o "label" do seu link assim:
 
-    [id]: http://example.com/  "Optional Title Here"
+    [id]: http://example.com/  "Título Opcional aqui"
 
-[id]: http://example.com/  "Optional Title Here"
-
-That is:
-
-Square brackets containing the link identifier (optionally indented from the left margin using up to three spaces);
-followed by a colon;
-followed by one or more spaces (or tabs);
-followed by the URL for the link;
-optionally followed by a title attribute for the link, enclosed in double or single quotes, or enclosed in parentheses.
-The following three link definitions are equivalent:
-
-[foo]: http://example.com/  "Optional Title Here"
-[foo]: http://example.com/  'Optional Title Here'
-[foo]: http://example.com/  (Optional Title Here)
-NOTE: There is a known bug in Markdown.pl 1.0.1 which prevents single quotes from being used to delimit link titles.
+[id]: http://example.com/  "Título Opcional aqui"
 
 The link URL may, optionally, be surrounded by angle brackets:
 
@@ -415,36 +401,28 @@ The point of reference-style links is not that they’re easier to write. The po
 
 With Markdown’s reference-style links, a source document much more closely resembles the final output, as rendered in a browser. By allowing you to move the markup-related metadata out of the paragraph, you can add links without interrupting the narrative flow of your prose.
 
-#### EMPHASIS
+#### ÊNFASE
 
-Markdown treats asterisks (*) and underscores (_) as indicators of emphasis. Text wrapped with one * or _ will be wrapped with an HTML <em> tag; double *’s or _’s will be wrapped with an HTML <strong> tag. E.g., this input:
+Asteriscos (*) e sublinhados (_) são indicadores de ênfase.
 
-*single asterisks*
+    *um asterisco*
 
-_single underscores_
+    _um sublinhado_
 
-**double asterisks**
+    **dois asteriscos**
 
-__double underscores__
-will produce:
+    __dois sublinhados__
 
-<em>single asterisks</em>
+produzirão:
 
-<em>single underscores</em>
+*um asterisco*
 
-<strong>double asterisks</strong>
+_um sublinhado_
 
-<strong>double underscores</strong>
-You can use whichever style you prefer; the lone restriction is that the same character must be used to open and close an emphasis span.
+**dois asteriscos**
 
-Emphasis can be used in the middle of a word:
+__dois sublinhados__
 
-un*frigging*believable
-But if you surround an * or _ with spaces, it’ll be treated as a literal asterisk or underscore.
-
-To produce a literal asterisk or underscore at a position where it would otherwise be used as an emphasis delimiter, you can backslash escape it:
-
-\*this text is surrounded by literal asterisks\*
 
 #### CODE
 
@@ -454,6 +432,7 @@ Use the `printf()` function.
 will produce:
 
 <p>Use the <code>printf()</code> function.</p>
+
 To include a literal backtick character within a code span, you can use multiple backticks as the opening and closing delimiters:
 
 ``There is a literal backtick (`) here.``
