@@ -1,19 +1,20 @@
-Principais elementos da sintaxe markdown
+Principais elementos da sintaxe Markdown
 ========================================
 
 Fonte: http://daringfireball.net/projects/markdown/syntax
+
 Excertos e tradução: @hilam
 
-ELEMENTOS DE BLOCO
+### ELEMENTOS DE BLOCO
 
-PARÁGRAFOS E QUEBRAS DE LINHA
+#### PARÁGRAFOS E QUEBRAS DE LINHA
 
 Um parágrafo é simplesmente uma ou mais linhas consecutivas de texto, separadas
 por uma ou mais linhas em branco. (Uma linha em branco é qualquer uma que pareça
 com uma linha em branco - uma linha contendo apenas espaços em branco ou tabulações
 é considerada em branco.) Parágrafos não devem ser identados com espaços ou tabulações.
 
-CABEÇALHOS
+#### CABEÇALHOS
 
 
 Isto é um H1
@@ -33,7 +34,7 @@ Outra forma:
 ###### Isto é um H6
 
 
-CITAÇÕES
+#### CITAÇÕES
 
 Markdown usa o caractere >, como no estilo email, para citações. Se você costuma
 citar passagens de emails, então você saberá criar uma citação em Markdown. Ele
@@ -77,7 +78,7 @@ Citações podem conter outros elementos Markdown elements, incluindo cabeçalho
 >     return shell_exec("echo $input | $markdown_script");
 
 
-LISTAS
+#### LISTAS
 
 Markdown suporta listas ordenadas (numeradas) e não ordenadas (bullet).
 
@@ -86,11 +87,13 @@ Listas não ordenadas usam *, + e - (não misturados):
 *   Red
 *   Green
 *   Blue
+
 equivalente a:
 
 +   Red
 +   Green
 +   Blue
+
 e:
 
 -   Red
@@ -117,27 +120,7 @@ Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
 viverra nec, fringilla in, laoreet vitae, risus.
 *   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
 Suspendisse id sem consectetuer libero luctus adipiscing.
-If list items are separated by blank lines, Markdown will wrap the items in <p> tags in the HTML output. For example, this input:
 
-*   Bird
-*   Magic
-se transforma em:
-
-<ul>
-<li>Bird</li>
-<li>Magic</li>
-</ul>
-Mas isto:
-
-*   Bird
-
-*   Magic
-se tranforma em:
-
-<ul>
-<li><p>Bird</p></li>
-<li><p>Magic</p></li>
-</ul>
 
 Os itens da lista podem consistir de vários parágrafos. Cada parágrafo
 subsequente no item da lista deve ser identado por 4 espaços ou tabulação:
@@ -153,7 +136,7 @@ subsequente no item da lista deve ser identado por 4 espaços ou tabulação:
 2.  Suspendisse id sem consectetuer libero luctus adipiscing.
 
 
-*   Item de ista com dois parágrafos.
+*   Item de lista com dois parágrafos.
 
     Segundo parágrafo do item. Só
 é necessário identar a primeira linha. Lorem ipsum dolor
@@ -169,54 +152,43 @@ Para evitar isso, você pode "escapar" o ponto(.) com a barra invertida:
 
 1986\. Que grande temporada.
 
-BLOCOS DE CÓDIGO
 
-Pre-formatted code blocks are used for writing about programming or markup source code. Rather than forming normal paragraphs, the lines of a code block are interpreted literally. Markdown wraps a code block in both <pre> and <code> tags.
+#### BLOCOS DE CÓDIGO
 
-To produce a code block in Markdown, simply indent every line of the block by at least 4 spaces or 1 tab. For example, given this input:
+Para produzir um bloco de código, simplesmente idente cada linha do bloco com,
+pelo menos, 4 espaços ou 1 tabulação:
 
-This is a normal paragraph:
+Parágrafo normal.
 
-    This is a code block.
-Markdown will generate:
+    Bloco de código.
 
-<p>This is a normal paragraph:</p>
+Markdown vai gerar:
 
-<pre><code>This is a code block.
+<p>Parágrafo normal.</p>
+
+<pre><code>Bloco de código.
 </code></pre>
-One level of indentation — 4 spaces or 1 tab — is removed from each line of the code block. For example, this:
 
-Here is an example of AppleScript:
+Exemplo com Python:
 
-    tell application "Foo"
-        beep
-    end tell
-will turn into:
+    def teste():
+        return "Hello PUG!"
 
-<p>Here is an example of AppleScript:</p>
+    teste()
 
-<pre><code>tell application "Foo"
-    beep
-end tell
-</code></pre>
-A code block continues until it reaches a line that is not indented (or the end of the article).
+Um bloco de código continua até atingir uma linha que não está identada.
 
-Within a code block, ampersands (&) and angle brackets (< and >) are automatically converted into HTML entities. This makes it very easy to include example HTML source code using Markdown — just paste it and indent it, and Markdown will handle the hassle of encoding the ampersands and angle brackets. For example, this:
 
     <div class="footer">
         &copy; 2004 Foo Corporation
     </div>
-will turn into:
 
-<pre><code>&lt;div class="footer"&gt;
-    &amp;copy; 2004 Foo Corporation
-&lt;/div&gt;
-</code></pre>
-Regular Markdown syntax is not processed within code blocks. E.g., asterisks are just literal asterisks within a code block. This means it’s also easy to use Markdown to write about Markdown’s own syntax.
+Sintaxe regular do Markdown não é processada dentro de blocos de código.
 
-HORIZONTAL RULES
+#### RÉGUAS HORIZONTAIS (HR)
 
-You can produce a horizontal rule tag (<hr />) by placing three or more hyphens, asterisks, or underscores on a line by themselves. If you wish, you may use spaces between the hyphens or asterisks. Each of the following lines will produce a horizontal rule:
+É possível produzir uma régua horizontal (<hr />) colocando três ou mais
+hífens, asteriscos ou sublinhados numa linha.
 
 * * *
 
@@ -227,29 +199,26 @@ You can produce a horizontal rule tag (<hr />) by placing three or more hyphens,
 - - -
 
 ---------------------------------------
-SPAN ELEMENTS
 
-LINKS
 
-Markdown supports two style of links: inline and reference.
+#### LINKS
 
-In both styles, the link text is delimited by [square brackets].
+Markdown suporta dois estilos de links: inline e reference.
 
-To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes. For example:
+Em ambos, o texto do link é delimitado por [colchetes].
 
-This is [an example](http://example.com/ "Title") inline link.
+Para criar um link inline, use um conjunto de parêntesis imediatamente após
+o colchete que finaliza o texto do link. Dentro dos parêntesis, coloque a URL,
+com um título opcional para o link, esntre aspas. Por exemplo:
 
-[This link](http://example.net/) has no title attribute.
-Will produce:
+Este é [um exemplo](http://example.com/ "Título") de link inline.
 
-<p>This is <a href="http://example.com/" title="Title">
-an example</a> inline link.</p>
+[Este link](http://example.net/) não tem o atributo título.
 
-<p><a href="http://example.net/">This link</a> has no
-title attribute.</p>
-If you’re referring to a local resource on the same server, you can use relative paths:
+Podem ser usados caminhos relativos:
 
-See my [About](/about/) page for details.
+Veja minha página [Sobre](/about/) para detalhes.
+
 Reference-style links use a second set of square brackets, inside which you place a label of your choosing to identify the link:
 
 This is [an example][id] reference-style link.
@@ -333,7 +302,7 @@ The point of reference-style links is not that they’re easier to write. The po
 
 With Markdown’s reference-style links, a source document much more closely resembles the final output, as rendered in a browser. By allowing you to move the markup-related metadata out of the paragraph, you can add links without interrupting the narrative flow of your prose.
 
-EMPHASIS
+#### EMPHASIS
 
 Markdown treats asterisks (*) and underscores (_) as indicators of emphasis. Text wrapped with one * or _ will be wrapped with an HTML <em> tag; double *’s or _’s will be wrapped with an HTML <strong> tag. E.g., this input:
 
@@ -363,7 +332,8 @@ But if you surround an * or _ with spaces, it’ll be treated as a literal aster
 To produce a literal asterisk or underscore at a position where it would otherwise be used as an emphasis delimiter, you can backslash escape it:
 
 \*this text is surrounded by literal asterisks\*
-CODE
+
+#### CODE
 
 To indicate a span of code, wrap it with backtick quotes (`). Unlike a pre-formatted code block, a code span indicates code within a normal paragraph. For example:
 
@@ -424,9 +394,9 @@ Where “id” is the name of a defined image reference. Image references are de
 [id]: url/to/image  "Optional title attribute"
 As of this writing, Markdown has no syntax for specifying the dimensions of an image; if this is important to you, you can simply use regular HTML <img> tags.
 
-MISCELLANEOUS
+### MISCELLANEOUS
 
-AUTOMATIC LINKS
+#### AUTOMATIC LINKS
 
 Markdown supports a shortcut style for creating “automatic” links for URLs and email addresses: simply surround the URL or email address with angle brackets. What this means is that if you want to show the actual text of a URL or email address, and also have it be a clickable link, you can do this:
 
@@ -447,7 +417,7 @@ which will render in a browser as a clickable link to “address@example.com”.
 
 (This sort of entity-encoding trick will indeed fool many, if not most, address-harvesting bots, but it definitely won’t fool all of them. It’s better than nothing, but an address published in this way will probably eventually start receiving spam.)
 
-BACKSLASH ESCAPES
+#### BACKSLASH ESCAPES
 
 Markdown allows you to use backslash escapes to generate literal characters which would otherwise have special meaning in Markdown’s formatting syntax. For example, if you wanted to surround a word with literal asterisks (instead of an HTML <em> tag), you can use backslashes before the asterisks, like this:
 
@@ -466,4 +436,3 @@ _   underscore
 -   minus sign (hyphen)
 .   dot
 !   exclamation mark
-
