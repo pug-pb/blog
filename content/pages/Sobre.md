@@ -1,25 +1,45 @@
 Title: Sobre PUG/PB
-Tags: pug-pb, about
+Tags: pug-pb, about, sobre
 Slug: about
 
 ![Mascote do Grupo]({filename}/images/pug-pb.png)
 
-Seja bem vindo ao PUG-PB! Os objetivos deste grupo de usuários são:
+###  Objetivos deste grupo de usuários
 
 
-Servir como canal de comunicação entre desenvolvedores, entusiastas e demais
-interessados na linguagem residentes no estado da Paraíba.
+Seja bem vindo ao PUG-PB! Estamos aqui para, entre outros assuntos:
 
-Estimular discussões sobre como potencializar e difundir o uso de Python na região.
+* Servir como canal de comunicação entre desenvolvedores, entusiastas e demais
+interessados na linguagem Python, residentes no estado da Paraíba.
 
-Compartilhar experiências e projetos profissionais ou pessoais que envolvam Python.
+* Estimular discussões sobre como potencializar e difundir o uso de Python na região.
 
-Realizar reuniões presenciais para apresentações de palestras e discussão de
+* Compartilhar experiências e projetos profissionais ou pessoais que envolvam Python.
+
+* Realizar reuniões presenciais para apresentações de palestras e discussão de
 temas diversos relacionados à comunidade Python.
 
-Estimular e apoiar a criação de um núcleo do PyLadies no estado da Paraíba.
+* Estimular e apoiar a criação de um núcleo do PyLadies no estado da Paraíba.
 
 
 Participe da nossa lista de discussão para trocar ideias e se informar sobre as nossas reuniões mensais.
 
 https://groups.google.com/forum/#!forum/pug-pb
+
+
+##### Composição atual do Grupo Executivo
+
+Jorge Eduardo
+(duddawolf@gmail.com)(https://github.com/orgs/pug-pb/people/DuddaWolf)
+Hildeberto Abreu
+(hildeberto@gmail.com)(https://github.com/orgs/pug-pb/people/hilam)
+Fernando Júnior
+(junio.webmaster@gmail.com)(https://github.com/orgs/pug-pb/people/junioweb)
+Naamã Lima
+(naamalima32@gmail.com)
+Egor Carlos Rodrigues
+(egor.rodrigues@gmail.com)
+Moisés Guimarães
+(https://github.com/orgs/pug-pb/people/moisesguimaraes)
+Smith Lima
+(smith.lima@eng.ci.ufpb.br)

@@ -11,6 +11,8 @@ Além de ser uma linguagem de programação boa de aprender e usar, Python tamb�
 
 ![Monty Python]({filename}/images/monty-python-flying-circus.jpg)
 
+
 ![RaspberryPi]({filename}/images/raspberry-pi-python.jpg)
+
 
 ![Aprendendo Python]({filename}/images/suporte_567.jpg)

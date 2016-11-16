@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'PUG-PB'
 SITENAME = 'PUG-PB (Grupo de Usuários Python Paraíba)'
-SITEURL = ''
+SITEURL = 'http://pug-pb.github.io/'
 
 PATH = 'content'
 
@@ -24,15 +24,18 @@ STATIC_PATHS = ['images', 'pdfs']
 
 # Blogroll
 LINKS = (
-    ('Fórum de Discussões', 'https://groups.google.com/forum/#!forum/pug-pb'),
-    ('Grupo do Whattsapp', 'https://'),
+    ('Python', 'http://python.org'),
+    ('Fórum PUG-PB', 'https://groups.google.com/forum/#!forum/pug-pb'),
          )
 
 # Social widget
 SOCIAL = (
+    ('Fórum', 'https://groups.google.com/forum/#!forum/pug-pb'),
+    ('Grupo do Telegram', 'https://'),
+    ('Github', 'https://github.com/pug-pb'),
     ('Facebook', 'https://facebook.com/pug-pb'),
     ('Twitter', 'https://twitter.com/pug-pb'),
-    ('Email', 'mailto:pythonusergroup.pb@gmail.com')
+    ('Email', 'mailto:pythonusergroup.pb@gmail.com'),
         )
 
 DEFAULT_PAGINATION = 10

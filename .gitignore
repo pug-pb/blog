@@ -90,3 +90,6 @@ ENV/
 
 # PyCharm project
 .idea/
+
+# Pelican site gerado
+output/
