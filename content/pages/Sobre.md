@@ -2,9 +2,7 @@ Title: Sobre PUG/PB
 Tags: pug-pb, about, sobre
 Slug: about
 
-![Mascote do Grupo]({filename}/images/pug-pb.png)
-
-###  Objetivos deste grupo de usuários
+##  Objetivos deste grupo de usuários
 
 
 Seja bem vindo ao PUG-PB! Estamos aqui para, entre outros assuntos:
@@ -22,24 +20,29 @@ temas diversos relacionados à comunidade Python.
 * Estimular e apoiar a criação de um núcleo do PyLadies no estado da Paraíba.
 
 
-Participe da nossa lista de discussão para trocar ideias e se informar sobre as nossas reuniões mensais.
+Participe da nossa [lista de discussão](https://groups.google.com/forum/#!forum/pug-pb)
+para trocar ideias e se informar sobre as nossas reuniões mensais.
 
-https://groups.google.com/forum/#!forum/pug-pb
+
+### Composição atual do Grupo Executivo
+
+[Jorge Eduardo](https://github.com/orgs/pug-pb/people/DuddaWolf)
+[Email](mailto:duddawolf@gmail.com)
+
+[Hildeberto Abreu](https://github.com/orgs/pug-pb/people/hilam)
+[Email](mailto:hildeberto@gmail.com)
+
+[Fernando Júnior](https://github.com/orgs/pug-pb/people/junioweb)
+[Email](junio.webmaster@gmail.com)
+
+[Naamã Lima](mailto:naamalima32@gmail.com)
+
+[Egor Carlos Rodrigues](mailto:egor.rodrigues@gmail.com)
+
+[Moisés Guimarães](https://github.com/orgs/pug-pb/people/moisesguimaraes)
+
+[Smith Lima](mailto:smith.lima@eng.ci.ufpb.br)
 
 
-##### Composição atual do Grupo Executivo
+![Mascote do Grupo]({filename}/images/pug-pb.png)
 
-Jorge Eduardo
-(duddawolf@gmail.com)(https://github.com/orgs/pug-pb/people/DuddaWolf)
-Hildeberto Abreu
-(hildeberto@gmail.com)(https://github.com/orgs/pug-pb/people/hilam)
-Fernando Júnior
-(junio.webmaster@gmail.com)(https://github.com/orgs/pug-pb/people/junioweb)
-Naamã Lima
-(naamalima32@gmail.com)
-Egor Carlos Rodrigues
-(egor.rodrigues@gmail.com)
-Moisés Guimarães
-(https://github.com/orgs/pug-pb/people/moisesguimaraes)
-Smith Lima
-(smith.lima@eng.ci.ufpb.br)

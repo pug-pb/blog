@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'PUG-PB'
 SITENAME = 'PUG-PB (Grupo de Usuários Python Paraíba)'
-SITEURL = 'http://pug-pb.github.io/'
+SITEURL = 'http://pug-pb.github.io'
 
 PATH = 'content'
 

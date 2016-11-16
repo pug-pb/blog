@@ -1,5 +1,5 @@
 Title: Zen de Python
-Date: 2016-11-28 10:00
+Date: 2016-10-28 10:00
 Tags: python, zen
 Slug: zen-python
 Category: Blog

@@ -1,5 +1,5 @@
 Title: Com Python a diversão é garantida
-Date: 2016-11-30 13:00
+Date: 2016-10-30 13:00
 Category: Blog
 Tags: python, fun, comic
 Slug: diversao-garantida

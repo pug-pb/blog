@@ -1,5 +1,5 @@
 Title: Primeira reunião
-Date: 2016-12-01 10:00
+Date: 2016-11-01 10:00
 Category: Blog
 Tags: pug-pb, organization
 Slug: primeira-reuniao
