@@ -3,7 +3,7 @@ Date: 2016-11-01 10:00
 Category: Blog
 Tags: pug-pb, organization
 Slug: primeira-reuniao
-Authors: Eduardo Araújo, Hildeberto Abreu, Naamã ..., Fernando Júnior, Egor ...
+Authors: Eduardo Araújo, Hildeberto Abreu, Naamã Lima, Fernando Júnior
 Summary: Primeira reunião de organização do PUG-PB
 
 

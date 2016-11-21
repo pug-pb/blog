@@ -1,5 +1,5 @@
 Title: O PUG-PB quer ser uma ONG
-Date: 2016-11-17 12:00
+Date: 2016-11-20 12:00
 Category: Blog
 Tags: pug-pb, blog, ong, estatuto
 Slug: ong
@@ -20,14 +20,14 @@ por empresas privadas
 
 * possibilidade de representar os membros em demandas judiciais
 
-* possibiidade de autonomia do grupo
+* possibilidade de autonomia administrativa do grupo
 
 
 #### Contras:
 
 * trabalhoso, burocrático
 
-* precisa ter um estatuto registrado em cartório
+* precisa ter um estatuto escrito e registrado em cartório
 
 * precisa ter uma reunião de fundação representativa
 
