@@ -24,25 +24,6 @@ Participe da nossa [lista de discussão](https://groups.google.com/forum/#!forum
 para trocar ideias e se informar sobre as nossas reuniões mensais.
 
 
-### Composição atual do Grupo Executivo
-
-[Jorge Eduardo](https://github.com/orgs/pug-pb/people/DuddaWolf)
-[Email](mailto:duddawolf@gmail.com)
-
-[Hildeberto Abreu](https://github.com/orgs/pug-pb/people/hilam)
-[Email](mailto:hildeberto@gmail.com)
-
-[Fernando Júnior](https://github.com/orgs/pug-pb/people/junioweb)
-[Email](junio.webmaster@gmail.com)
-
-[Naamã Lima](mailto:naamalima32@gmail.com)
-
-[Egor Carlos Rodrigues](mailto:egor.rodrigues@gmail.com)
-
-[Moisés Guimarães](https://github.com/orgs/pug-pb/people/moisesguimaraes)
-
-[Smith Lima](mailto:smith.lima@eng.ci.ufpb.br)
-
 
 ![Mascote do Grupo]({filename}/images/pug-pb.png)
 

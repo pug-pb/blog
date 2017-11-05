@@ -41,7 +41,7 @@ Embora esse modo possa não ser óbvio a princípio, a menos que você seja hola
 
 Agora é melhor que nunca.
 
-Embora nunca freqüentemente seja melhor que já.
+Embora nunca seja freqüentemente melhor que já.
 
 Se a implementação é difícil de explicar, é uma má ideia.
 
