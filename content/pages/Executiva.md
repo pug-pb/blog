@@ -12,11 +12,11 @@ Analista e Desenvolvedor de Sistemas; carreira de 08 (oito) anos na área de Tec
 
 Aperfeiçoamento na área de Desenvolvimento de Sistemas, com a utilização de algumas linguagens de programação, como: Python, PHP e Javascript, entre outros frameworks utilizados para agilizar o processo de trabalho;
 
-E-mail: junio.webmaster@gmail.com
+[E-mail](mailto:junio.webmaster@gmail.com)
 
-LinkedIn: http://linkedin.com/in/fernand-junio
+[LinkedIn](http://linkedin.com/in/fernand-junio)
 
-Github: https://github.com/junioweb
+[Github](https://github.com/junioweb)
 
 
 ### * Hildeberto Abreu
@@ -24,11 +24,11 @@ Github: https://github.com/junioweb
 
 Servidor público, graduado em Ciência da Computação, MBA em Gestão de Projetos. Desenvolve ferramentas auxiliares de gestão de recursos humanos no trabalho, utilizando Python (web2py, django, jupyter), e em projetos pessoais (kivy, django, scrapy, etc).
 
-E-mail: hildeberto@gmail.com
+[E-mail](mailto:hildeberto@gmail.com)
 
-LinkedIn: https://www.linkedin.com/in/hildeberto/
+[LinkedIn](https://www.linkedin.com/in/hildeberto/)
 
-Github: https://github.com/hilam
+[Github](https://github.com/hilam)
 
 
 ### * Newton Galiza
@@ -39,9 +39,9 @@ Desenvolvedor do sistema de RPG Nippon Heroes.
 Pythonista.
 Cientista de dados.
 
-E-mail: newtonjgaliza@gmail.com
+[E-mail](newtonjgaliza@gmail.com)
 
-LinkedIn: https://www.linkedin.com/in/newton-galiza-64108766/
+[LinkedIn](https://www.linkedin.com/in/newton-galiza-64108766/)
 
-Github: https://github.com/NewtonGaliza
+[Github](https://github.com/NewtonGaliza)
 

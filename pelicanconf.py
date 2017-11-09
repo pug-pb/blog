@@ -45,7 +45,7 @@ RELATIVE_URLS = True
 # NEST Template
 SITESUBTITLE = 'Grupo de Usuários Python Paraiba'
 # Minified CSS
-NEST_CSS_MINIFY = True
+NEST_CSS_MINIFY = False
 # Add items to top menu before pages
 MENUITEMS = [('Homepage', '/'),
              ('Eventos', '/pages/eventos.html'),
