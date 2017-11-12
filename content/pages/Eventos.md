@@ -4,21 +4,22 @@ Slug: eventos
 
 ## Calendários dos próximos eventos
 
-
-### MeetUp PUG/PB: PyNES
+### MeetUp PUG/PB: Construindo jogos para NES com PyNES
 
 #### Palestrante:
 
-###### Newton Galiza
+##### Newton Galiza
 
 #### Quando:
 
-###### 28/11/2017, 14:00
+##### 18/11/2017, 09:30
 
 #### Local:
 
-###### Centro de Ciência da Computação do UNIPÊ
-BR 230 - KM 14
+##### UNIPÊ - Centro Universitário de João Pessoa
+BR 230 - Km 22, Água Fria - CEP 58053-000 João Pessoa - PB
+[Conheça o campus](http://unipe.br/conheca-o-campus/)
+
 
 
 
@@ -26,15 +27,15 @@ BR 230 - KM 14
 
 #### Palestrante:
 
-###### Ricardo César
+##### Ricardo César
 
 #### Quando:
 
-###### 08/12/2017, 14:00
+##### 08/12/2017, 14:00
 
 #### Local:
 
-###### Hangouts/Youtube (endereço será disponibilizado)
+##### Hangouts/Youtube (endereço será disponibilizado)
 
 
 
@@ -42,15 +43,15 @@ BR 230 - KM 14
 
 #### Palestrante:
 
-###### Hildeberto Abreu
+##### Hildeberto Abreu
 
 #### Quando:
 
-###### Janeiro/2018 (A ser confirmado)
+##### Janeiro/2018 (A ser confirmado)
 
 #### Local:
 
-###### A ser confirmado
+##### A ser confirmado
 
 
 
@@ -58,13 +59,13 @@ BR 230 - KM 14
 
 #### Palestrante:
 
-###### Newton Galiza
+##### Newton Galiza
 
 #### Quando:
 
-###### Janeiro/2018 (A ser confirmado)
+##### Janeiro/2018 (A ser confirmado)
 
 #### Local:
 
-###### A ser confirmado
+##### A ser confirmado
 
