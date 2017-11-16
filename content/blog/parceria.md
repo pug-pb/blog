@@ -1,4 +1,4 @@
-Title: Parceria com a Jetbrains
+Title: Parceria com a Jetbrains e sorteio de licenças
 Date: 2017-11-16 10:00
 Category: Blog
 Tags: pug-pb, blog
@@ -32,4 +32,4 @@ gratuita:
 * Remote development capabilities
 * Database & SQL support
 
-Contamos com a presença de todos!
+Contamos com a presença de todos! ([Inscreva-se](https://www.sympla.com.br/meetup-pug-pb-python-user-group-of-paraiba__217120))

@@ -4,7 +4,7 @@ Slug: eventos
 
 ## Calendários dos próximos eventos
 
-### MeetUp PUG/PB: Construindo jogos para NES com PyNES
+### MeetUp PUG/PB (Python User Group of Paraíba)
 
 #### Quando:
 
@@ -13,7 +13,7 @@ Slug: eventos
 #### Local:
 
 ##### UNIPÊ - Centro Universitário de João Pessoa
-Sala 218 (2° andar) no bloco J de Pós Graduação
+**Sala 218 (2° andar) no bloco J de Pós Graduação**
 
 BR 230 - Km 22, Água Fria - CEP 58053-000 João Pessoa - PB
 [Conheça o campus](http://unipe.br/conheca-o-campus/)
@@ -26,7 +26,7 @@ BR 230 - Km 22, Água Fria - CEP 58053-000 João Pessoa - PB
 * Sorteio de licença individual para qualquer IDE da Jetbrains, entre os inscritos
 
 #### Inscrições:
-[Inscreva-se](https://www.sympla.com.br/meetup-pug-pb-construindo-jogos-para-nes-com-pynes__217120)
+[Inscreva-se](https://www.sympla.com.br/meetup-pug-pb-python-user-group-of-paraiba__217120)
 
 
 ### MeetUp Virtual PUG/PB: Data Science com Python
