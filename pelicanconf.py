@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'PUG-PB'
 SITENAME = 'PUG-PB Blog'
 SITEURL = 'http://pug-pb.github.io'
-
+OUTPUT = '../pug-pb.github.io/'
 PATH = 'content'
 THEME = "nest"
 TIMEZONE = 'America/Recife'
