@@ -3,11 +3,11 @@ Tags: pug-pb, equipe, eventos
 Slug: eventos
 
 
-### MeetUp Virtual PUG/PB: BDD com Django
+### MeetUp Virtual PUG/PB: BDD Pythonico com Django
 
 #### Palestrante:
 
-##### Ricardo César
+##### Renato César
 
 #### Quando:
 

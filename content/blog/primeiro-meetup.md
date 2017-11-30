@@ -19,7 +19,7 @@ Summary: Como foi o 1º MeetUp dp PUG-PB
 NO dia 18/11/2017, na sala 218 do bloco J do Centro Universitário do Unipê, 
 aconteceu o 1º MeetUp do PUG-PB, com a palestra "Construindo jogos para NES com 
 PyNES", proferido por Newton Galiza (slides 
-[aqui](https://github.com/pug-pg/eventos/Newton_Galiza_PyNes.pdf)).
+[aqui](https://github.com/pug-pb/eventos/blob/master/Newton_Galiza_Pynes.pdf)).
 
 Contamos com 25 participantes de um total de 42 inscritos. Logo após, um 
 momento de descontração e networking, onde todos tiveram a 
@@ -28,7 +28,7 @@ formas de aprender, atividades pessoais, educacionais e/ou profissionais.
 
 Ao final, sorteamos a licença de um ano para qualquer produto da 
 [Jetbrains](https://www.jetbrains.com/products). O sortudo da vez foi o 
-Gustavo Aragão. Mas no próximo evento, contaremos com mais uma licença para 
+**Gustavo Aragão**. No próximo evento, contaremos com mais uma licença para 
 ser sorteada.
 
 --------------------------------------------------
