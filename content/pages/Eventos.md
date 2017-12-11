@@ -23,9 +23,12 @@ Slug: eventos
 #### Programação:
 
 {% img {filename}/images/segundo-meetup-palestra-vanessa.jpg 50% auto 
-"Palestra confirmada!" %}
+"Palestra Vanessa confirmada!" %}
 
-* Próximas palestras a confirmar
+{% img {filename}/images/segundo-meetup-palestra-fernando.jpg 50% auto 
+"Palestra Fernando confirmada!" %}
+
+* Falta 1 palestra, a confirmar
  
 --------------------------------------
 
