@@ -93,5 +93,10 @@ ENV/
 
 # Pelican site gerado
 output/
-# Pelican theme
+# Pelican themes
+pelican-themes/
 nest/
+# Pelican plugins
+plugins/
+# Thums.db
+Thumbs.db

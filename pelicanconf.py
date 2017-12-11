@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'PUG-PB'
 SITENAME = 'PUG-PB Blog'
 SITEURL = 'http://pug-pb.github.io'
-# OUTPUT = '../pug-pb.github.io/'
+#OUTPUT = '../pug-pb.github.io'
 PATH = 'content'
 THEME = "nest"
 TIMEZONE = 'America/Recife'
@@ -128,3 +128,8 @@ NEST_TAGS_CONTENT_LIST = 'tagged'
 #     'extra/favicon.ico': {'path': 'favicon.ico'},
 #     'extra/logo.svg': {'path': 'logo.svg'}
 # }
+
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ["liquid_tags.youtube", "liquid_tags.img"]
+
+# TODO passar todas as imagens para liquid tags
