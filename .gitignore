@@ -98,5 +98,5 @@ pelican-themes/
 nest/
 # Pelican plugins
 plugins/
-# Thums.db
+# Thumbs.db
 Thumbs.db

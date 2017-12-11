@@ -8,7 +8,7 @@ Summary: PUG-PB promove meetup virtual
 
 ### MeetUp Virtual BDD Django
 
-No dia 02/12/2017, foi redlizado um evento virtual ao vivo, com o [Renato 
+No dia 02/12/2017, foi realizado um evento virtual ao vivo, com o [Renato 
 César](https://linkedin.com/in/renatocesarlira), explicando para a audiência 
 como utilizar a técnica BDD com Django. 
 
